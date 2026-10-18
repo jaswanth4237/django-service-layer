@@ -1,6 +1,6 @@
 # Django Service Layer vs Signals Benchmark
 
-This project demonstrates the transition from using Django's implicit signal framework for business logic to an explicit, transactionally safe, and highly performant Service Layer architecture.
+This project demonstrates  transition from using Django's implicit signal framework for business logic to an explicit, transactionally safe, and highly performant Service Layer architecture.
 
 ## Overview
 
